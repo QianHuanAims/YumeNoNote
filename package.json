@@ -3,6 +3,7 @@
   "devDependencies": {
     "vitepress": "^2.0.0-alpha.21"
   },
+  "packageManager": "bun@1.4.5",
   "scripts": {
     "yume:dev": "vitepress dev docs --port 8080",
     "yume:build": "vitepress build docs --port 8080",
