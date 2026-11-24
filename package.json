@@ -1,0 +1,11 @@
+{
+  "dependencies": {},
+  "devDependencies": {
+    "vitepress": "^2.0.0-alpha.21"
+  },
+  "scripts": {
+    "yume:dev": "vitepress dev docs --port 8080",
+    "yume:build": "vitepress build docs --port 8080",
+    "yume:preview": "vitepress preview docs --port 8080"
+  }
+}
